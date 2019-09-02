@@ -1,2 +1,2 @@
 # pyChem
-Data analysis examples from a chemical laboratory
+Data analysis examples from a chemical laboratory.  Inspired by [Data Analysis for Chemistry](https://www.amazon.com/Data-Analysis-Chemistry-Introductory-Laboratory/dp/0195162110).  The book's examples are all originally demonstrated in Excel.  I wanted to repeat some of these in Python then hopefully add some visuals via a charting library.  Solving these problems in another language helps to cement the concepts and help one get acquainted with the various statistical libraries avaiable in Python (scipy, statistics, StatsModels).
